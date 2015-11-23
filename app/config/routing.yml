@@ -1,3 +1,7 @@
+blue:
+    resource: "@BlueBundle/Resources/config/routing.yml"
+    prefix:   /
+
 users_user:
     resource: "@UsersUserBundle/Resources/config/routing.yml"
     prefix:   /

@@ -1,0 +1,4 @@
+services:
+#    blue.example:
+#        class: BlueBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
